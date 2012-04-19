@@ -7,7 +7,7 @@ Una possibilità interessante di personalizzazione di QGIS è l'utilizzo di *for
 Potremmo fare qualcosa di più interessante con queste *form* aggiungendo, ad esempio, delle funzionalità di validazione dei dati.
 
 Creazione della *form*
----------------------
+----------------------
 
 Aprite Qt Designer e cliccate su "Dialog with Buttons Bottom" per creare la finestra di dialogo.
 Prendiamo come esempio il file *50m_admin_0_countries*, che ha i seguenti campi attributo:
